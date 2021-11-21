@@ -1,0 +1,26 @@
+.smallIcons:hover {
+  background-color: rgb(39, 133, 247);
+  display: inline-block;
+  vertical-align: middle;
+  transform: perspective(2px) translateZ(0);
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+  transition-duration: 0.7s;
+}
+.smallIcons {
+  width: 50px;
+  border-radius: 15px;
+  border: 10px;
+}
+.picture{
+  width: 120px;
+  float: left;
+  margin-right: 40px;
+}
+.picture2{
+  width: 120px;
+  margin-bottom: 40px;
+}
+.photo{
+  width: 200px;
+  
+}
